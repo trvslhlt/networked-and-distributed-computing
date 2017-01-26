@@ -1,0 +1,3 @@
+/Users/trvslhlt/ubuntu_vm/networked_distributed_computing/lab_1/SocketProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/trvslhlt/ubuntu_vm/networked_distributed_computing/lab_1/SocketProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/trvslhlt/ubuntu_vm/networked_distributed_computing/lab_1/SocketProject/cmake-build-debug/CMakeFiles/SocketProject.dir

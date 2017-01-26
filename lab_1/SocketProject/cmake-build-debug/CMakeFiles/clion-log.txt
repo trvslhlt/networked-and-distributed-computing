@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/trvslhlt/ubuntu_vm/networked_distributed_computing/lab_1/SocketProject
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/trvslhlt/ubuntu_vm/networked_distributed_computing/lab_1/SocketProject/cmake-build-debug
