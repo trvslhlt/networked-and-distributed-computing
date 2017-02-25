@@ -1,1 +1,0 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/SocketProject.dir/main.c.o CMakeFiles/SocketProject.dir/echo_client.c.o CMakeFiles/SocketProject.dir/echo_server.c.o  -o SocketProject 

@@ -1,8 +1,0 @@
-sudo docker run -d -p 3022:22 -p 7777:7777 -p 9999:9999 -h server.cornell.edu --security-opt seccomp:unconfined --name server ebagdasa/cs5450_p1:latest
-
-# run creates a container from the image AND starts the container. after the container exists, start it with:
-sudo docker start server
-ssh -p 3022 root@127.0.0.1
-
-# to copy files into docker container 
-sudo docker cp /vagrant/networked_distributed_computing/lab_1/ server:/root

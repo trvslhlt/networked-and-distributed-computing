@@ -1,7 +1,0 @@
-Instructions
-- Untar the autolab_grading.tar
-- In the directory that is created you should have 2 files. autograder.tar and Makefile
-- Download your Autolab submission that you want to test and copy it to the above created directory
-- Rename your submission tar to handin.tar
-- Run make inside autolab_scripts
-- This should give you your score.
